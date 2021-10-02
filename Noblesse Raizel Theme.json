@@ -1,0 +1,16 @@
+{
+    "manifest": {
+        "author": "Dark・MD 3.0#4452",
+        "name": "Noblesse Raizel Theme",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/893855417581584394\/893886607755739137\/images_21.jpeg",
+        "overlay_alpha": 1,
+        "blur_radius": 0
+    },
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {}
+}
